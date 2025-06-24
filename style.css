@@ -1,0 +1,33 @@
+body {
+  background-color: #f2f7f8;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.container-box {
+  max-width: 800px;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  margin: auto;
+}
+
+h2 {
+  color: #2c3e50;
+}
+
+input.form-control {
+  border-radius: 8px;
+  box-shadow: none;
+  transition: border-color 0.2s;
+}
+
+input.form-control:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.25);
+}
+
+.btn {
+  border-radius: 10px;
+  font-weight: 500;
+}
