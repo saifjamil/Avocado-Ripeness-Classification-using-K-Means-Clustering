@@ -63,6 +63,11 @@ All features were **numeric** and **cleaned (no missing values)** before trainin
 ## 📈 Exploratory Data Analysis
 
 We visualized patterns using heatmaps, histograms, and box plots to explore feature correlations.
+![Clusters_by_Firmness_and_Brightness](images/Clusters_by_Firmness_and_Brightness.png)
+![Clusters visualized with PCA](images/Clusters_visualized_with_PCA.png)
+![Pair Plot](images/pair_plot.png)
+![Correlation Heatmap](images/correlation_heatmap.png)
+
 
 ### 🔍 Elbow Method to determine `k`
 
