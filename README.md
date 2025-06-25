@@ -3,7 +3,6 @@ This is the version on GitHub
 
 # 🥑 Avocado Ripeness Classification using K-Means Clustering
 
-![Project Banner](images/banner.png)
 
 > A full-stack Machine Learning project that classifies the ripeness of avocados using unsupervised learning (K-Means). Complete with EDA, clustering logic, Flask API, frontend UI, Dockerization, and optional CI/CD integration — all in one deployable application.
 
@@ -107,7 +106,7 @@ A lightweight web form allows users to input avocado data and receive a ripeness
 ## 📽️ Demo Video
 
  
-[▶️ Click to Watch the App in Action](https://www.youtube.com/results?search_query=Predict+Avocado+Ripeness+with+Machine+Learning+%7C+K-Means+Clustering)
+[▶️ Click to Watch the App in Action](https://www.youtube.com/watch?v=eCLJEETtFbA&pp=ygVDUHJlZGljdCBBdm9jYWRvIFJpcGVuZXNzIHdpdGggTWFjaGluZSBMZWFybmluZyB8IEstTWVhbnMgQ2x1c3RlcmluZw%3D%3D)
 
 ---
 
