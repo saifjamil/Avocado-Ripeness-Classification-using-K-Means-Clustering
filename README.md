@@ -106,8 +106,8 @@ A lightweight web form allows users to input avocado data and receive a ripeness
 
 ## 📽️ Demo Video
 
-🎥 **Demo on YouTube:**  
-[▶️ Click to Watch the App in Action](https://youtu.be/YOUR_VIDEO_LINK)
+ 
+[▶️ Click to Watch the App in Action](https://www.youtube.com/results?search_query=Predict+Avocado+Ripeness+with+Machine+Learning+%7C+K-Means+Clustering)
 
 ---
 
